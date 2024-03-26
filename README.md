@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SadikHajar&show_icons=true&locale=en" alt="marua15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marua15&" alt="marua15" /></p>
-<a href="https://github.com/SadikHajar/github-profile-views-counter">
+<a href="https://github.com/marua15/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=marua15">
 </a>
     <a href="https://github.com/marua15?tab=followers">
