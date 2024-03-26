@@ -23,14 +23,14 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SadikHajar&show_icons=true&locale=en&layout=compact" alt="marua15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marua15&show_icons=true&locale=en&layout=compact" alt="marua15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SadikHajar&show_icons=true&locale=en" alt="marua15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marua15&show_icons=true&locale=en" alt="marua15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marua15&" alt="marua15" /></p>
 <a href="https://github.com/marua15/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=marua15">
 </a>
     <a href="https://github.com/marua15?tab=followers">
-        <img src="https://img.shields.io/github/followers/SadikHajar?label=Followers&style=social" alt="GitHub Badge"/>
+        <img src="https://img.shields.io/github/followers/marua15?label=Followers&style=social" alt="GitHub Badge"/>
     </a>
 </p>
