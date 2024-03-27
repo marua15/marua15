@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+I am a software engineering student from Morocco.
 - :telescope:As a software engineering student, I have a significant interest in working on both frontend and backend components for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -23,7 +23,6 @@ I am a software engineering student <img src="https://media.giphy.com/media/WUlp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouaamal/)
 
-- ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
