@@ -13,9 +13,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a software engineering student from Morocco.
-
-
+<br/>
+<p style="font-family: Arial, sans-serif; font-size: 16px; color: #333; font-weight: bold;">I am a software engineering student from Morocco.</p>
 - :telescope:As a software engineering student, I have a significant interest in working on both frontend and backend components for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
