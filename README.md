@@ -13,7 +13,7 @@
 
 
 - ⚡ Fun fact *I am funny😅*
-- 🌱 I’m currently learning *PHP, HTML,CSS,Js and Python*
+- 🌱 I’m currently learning *Deep Learning*
 - 📫 How to reach me *marouaamal2002@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
