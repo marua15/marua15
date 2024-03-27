@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Z9MWkZy7NQTU1v2LNT/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/marouaamal/">
@@ -24,7 +24,7 @@ I am a software engineering student from Morocco.
 - :zap: In my free time, I solve problems and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marouaamal/)
-
+- :Email: marouaamal2002@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
