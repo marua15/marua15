@@ -16,7 +16,6 @@
   <a href="https://kaggle.com/marua15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marua15" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/marua15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marua15" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/marua15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marua15" height="30" width="40" /></a>
-  <a href="https://huggingface.co/marua15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="marua15" height="30" width="40" /></a>
 </p>
 
 
