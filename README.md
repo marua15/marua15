@@ -113,10 +113,6 @@
 
 
 
-<div style="background-color: white; padding: 10px; display: inline-block;">
-    <img src="https://myreadme.vercel.app/api/embed/marua15?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="marua15" />
-</div>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marua15&label=Profile%20views&color=0e75b6&style=flat" alt="marua15" /> </p>
 
 <p align="center">
